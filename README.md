@@ -5,7 +5,6 @@
 - 📫 How to reach me: [Email Me](mailto:sahajsinghsohal@gmail.com)
 - 🌱 I’m currently learning ⚛️ React
 - 🐍 I know some Python
-- ⚡ Fun fact: Once I met Hip-Hop now Hip-Hop and I are best friends.
 
 
 
