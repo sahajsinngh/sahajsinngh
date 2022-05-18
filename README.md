@@ -9,7 +9,7 @@
 
 
 # My Github Statistics 😁
-![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahajsinngh&show_icons=true&theme=dark)
+[![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahajsinngh)](https://github.com/anuraghazra/github-readme-stats)
 
 # MOST USED LANGUAGES 🤷‍♀️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahajsinngh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahajsinngh)](https://github.com/anuraghazra/github-readme-stats)
