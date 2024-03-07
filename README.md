@@ -3,8 +3,8 @@
 ### 
 
 - 📫 How to reach me: [Email Me](mailto:sahajsinghsohal@gmail.com)
-- 🌱 I’m currently learning ⚛️ React
-- 🐍 I know some Python
+- 🌱 I’m currently learning ⚛️ React Native 
+- 🐍 I know some javascript
 
 
 
